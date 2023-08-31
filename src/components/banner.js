@@ -7,6 +7,7 @@ const Banner = () => {
             <h1>
                 Quality Wine from Organically Grown Grapes
             </h1>
+            <button type='button'>Click Here</button>
         </div>
     </section>
   )
